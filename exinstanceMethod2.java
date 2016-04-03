@@ -2,7 +2,7 @@ class exinstanceMethod2
 {
 	public static void main(String[] args) 
 	{
-		exinstanceMethod2 str = new exinstaneMethod2();
+		exinstanceMethod2 str = new exinstanceMethod2();
 		str.print("Result(+,/) = "+(10+5)+","+(10/2d));
 	}
 
